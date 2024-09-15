@@ -19,7 +19,6 @@ This project provided hands-on experience with:
 
 Check out the video demonstration of the app in action:
 
-<video width="540" height="1200" controls>
-  <source src="video/demo.mp4" type="video/mp4">
-</video>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/neEtUj9SE08)](https://youtu.be/neEtUj9SE08)
+
 
