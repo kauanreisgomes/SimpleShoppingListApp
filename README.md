@@ -1,5 +1,7 @@
 # Simple Shopping List
-This Android app is a simple shopping list designed as a learning project to explore Jetpack Compose and Android development fundamentals. The app includes integration with a local database using the Room persistence library.
+This Android app is a simple shopping list designed as a learning project 
+to explore Jetpack Compose and Android development fundamentals. 
+The app includes integration with a local database using the Room persistence library.
 
 ## Features
 - **Add, view, and delete items** on your shopping list.
@@ -17,9 +19,7 @@ This project provided hands-on experience with:
 
 Check out the video demonstration of the app in action:
 
-![](video/demo.webm)
-
 <video width="540" height="1200" controls>
-  <source src="video/demo.mp4" type="video/webm">
+  <source src="video/demo.mp4" type="video/mp4">
 </video>
 
